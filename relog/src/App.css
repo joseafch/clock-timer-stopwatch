@@ -1,0 +1,27 @@
+@font-face {
+    font-family:Back ttf;
+    src: url(./font/back-to-the-future.ttf);
+}
+@font-face {
+    font-family: Ds-Digital ;
+    src: url(./font/DS-DIGIT.TTF);
+}
+body{
+    font-family: 'Back ttf';
+}
+
+.Back-Groun{
+    background-image: url(https://images.hdqwalls.com/download/back-to-the-future-delorean-marty-mcfly-mm-1920x1080.jpg);
+background-size:cover ;
+background-repeat: no-repeat;
+height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.position-time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}

@@ -1,0 +1,17 @@
+.body{
+    /* font-family: ; */
+    font-family: 'Back to the future 2002';
+    font-size: 20px;
+
+}
+.name{
+    font-family: 'Back ttf';
+    font-size: 80px;
+    color: white;
+}
+.div-home{
+display: flex;
+flex-direction: column;
+justify-content:center ;
+align-items:center ;
+}
